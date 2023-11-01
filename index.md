@@ -9,7 +9,7 @@ Hoş geldiniz! Bu benim kişisel GitHub Pages web sitem.
 - [Proje 1](/proje1/index.md)
 
 
-[Jupyter Notebook'u](/Data_analysis.ipynb) 
+[Jupyter Notebook'u](proje1/Data_analysis.ipynb) 
 ---
 
 Daha fazla bilgi ve yardım için [GitHub Dokümantasyon](https://docs.github.com/categories/github-pages-basics/) sayfasına göz atabilirsiniz.
