@@ -12,7 +12,9 @@ Bu proje, XYZ veri seti üzerinde çeşitli analizler ve görselleştirmeler iç
 
 ## Analiz Not Defteri
 
-Analizleri görmek için [Jupyter Notebook'u](/Data_analysis.ipynb) inceleyin.
+Analizleri görmek için [Jupyter Notebook'u]() inceleyin.
+![Class Diagram ](proje1\explorerTrendyolNew.html)
+![Class Diagram 1 ](explorerTrendyolNew.html)
 
 ## Rapor
 
