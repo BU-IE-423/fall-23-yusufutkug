@@ -1,16 +1,14 @@
-## Merhaba, Ben Yusuf Utku Güldür!
+## IE423 FALL - PROJECT 
 
-# Ana Sayfa
+Hi, 
 
-Hoş geldiniz! Bu benim kişisel GitHub Pages web sitem.
+Welcome to Github Page of IE423FALL - **Group 16**
 
-## Projelerim
+> ### Group Members 
+- Burak Caymaz
+- Yusuf Utku Güldür
+- Turgut Berk Yüksek
 
-- [Proje 1](/proje1/index.md)
+>## Project Part One
 
-
-[Jupyter Notebook'u](proje1/Data_analysis.ipynb) 
----
-
-Daha fazla bilgi ve yardım için [GitHub Dokümantasyon](https://docs.github.com/categories/github-pages-basics/) sayfasına göz atabilirsiniz.
-
+You can reach our study on *Project Part One* by following this [link](proje1/project_part_one_analysis.md)
