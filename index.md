@@ -15,5 +15,5 @@ You can reach our study on *Project Part One* by following this [link](proje1/pr
 
 >## Project Part Two
 - Project Part Two consists of Two Tasks.
-  - You can reach our study on *Project Part Two **TASK ONE*** by following this [link(PP2/1)](IE423-PROJECT_PART_TWO/IE423-PROJECTPARTTWO-TASKONE/IE423-PROJECTPARTTWO-TASKONE.md)
-  - You can reach our study on *Project Part Two **TASK TWO*** by following this [link(PP2/2)](IE423-PROJECT_PART_TWO/IE423-PROJECTPARTTWO-TASKTWO/423ArimaTask2_pairs1.md)
+  - You can reach our study on *Project Part Two **TASK ONE*** by following this [link(PP2/1)](proje2/IE423-PROJECTPARTTWO-TASKONE/IE423-PROJECTPARTTWO-TASKONE.md)
+  - You can reach our study on *Project Part Two **TASK TWO*** by following this [link(PP2/2)](proje2/IE423-PROJECTPARTTWO-TASKTWO/423ArimaTask2_pairs1.md)
